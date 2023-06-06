@@ -2,7 +2,7 @@ import pandas as pd
 from tqdm.notebook import tqdm
 import snscrape.modules.twitter as sntwitter
 
-scraper = sntwitter.TwitterSearchScraper("#happy")
+scraper = sntwitter.TwitterSearchScraper("#emotion")
 
 for i, tweet in enumerate.get_items():
     break
