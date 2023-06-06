@@ -15,4 +15,4 @@ if i > 50:
 tweet_df = pd.DataFrame(
     tweets, colums = ["emotion","text"]
 )
-tweet_df.to_csv("emotion-dataset.csv", index=False)
+tweet_df.to_csv("emotion-happy.csv", index=False)
