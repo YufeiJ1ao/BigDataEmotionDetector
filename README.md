@@ -1,0 +1,2 @@
+# BigDataEmotionDetector
+Emotion Recognition Model
