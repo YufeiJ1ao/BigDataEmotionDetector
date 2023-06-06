@@ -13,8 +13,10 @@ There are two types of emotion measurement and assessment tools: psychophysiolog
 
 ## Documentation 
 Collect data from twitter or any social platforms to build the database of this project.
+#
+This python code is specifically for analysing code for only this user: @pledis_17. This code allows user to scrape latest 100 tweets from one user.
 
-![image](https://git.arts.ac.uk/storage/user/363/files/bdc37500-0976-49d2-bdca-85db48a63f64)
+![image](https://git.arts.ac.uk/storage/user/363/files/9627473d-01a3-49a5-91ab-a370f5fe6991)
 
 
 
