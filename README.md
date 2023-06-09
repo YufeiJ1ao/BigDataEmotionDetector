@@ -88,6 +88,8 @@ ser.close()
 ## Representing emotions with color
 
 This idea was originally inspired by a video game called 'Detroit: Become Human'. 
+
+###
 ###
 Where the main characters are artifical intelligences, there is a ring light built on the side of their forehead. Which display their emotion/reaction toward events.
 
@@ -100,6 +102,7 @@ Where the main characters are artifical intelligences, there is a ring light bui
 ![565054597863093333](https://git.arts.ac.uk/storage/user/363/files/f018ad3b-84a9-458e-9d5d-940de7c5f615)
 >Joy is represented by Mint Blue
 >Etc.
+>
 
 ## links and references
 https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0267
