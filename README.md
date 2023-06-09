@@ -85,8 +85,21 @@ ser.write(str(res).encode())
 emo=print
 ser.close() 
 ```
+## Representing emotions with color
 
+This idea was originally inspired by a video game called 'Detroit: Become Human'. 
+###
+Where the main characters are artifical intelegence, there is a ring light built on the side of their forehead. Which display their emotion/reaction toward events.
 
+![283939798625547827](https://git.arts.ac.uk/storage/user/363/files/04c5393c-6a2b-4eb8-98ad-9ab1037da73b)
+>Anger is represented by red
+
+![766728504756798521](https://git.arts.ac.uk/storage/user/363/files/230f996c-adb2-4bdd-b16f-8b7b9989d07c)
+>Fear is represented by purple
+
+![565054597863093333](https://git.arts.ac.uk/storage/user/363/files/f018ad3b-84a9-458e-9d5d-940de7c5f615)
+>Joy is represented by Mint Blue
+>Etc.
 
 ## links
 https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0267
