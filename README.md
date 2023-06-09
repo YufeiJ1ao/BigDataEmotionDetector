@@ -89,7 +89,7 @@ ser.close()
 
 This idea was originally inspired by a video game called 'Detroit: Become Human'. 
 ###
-Where the main characters are artifical intelegence, there is a ring light built on the side of their forehead. Which display their emotion/reaction toward events.
+Where the main characters are artifical intelligences, there is a ring light built on the side of their forehead. Which display their emotion/reaction toward events.
 
 ![283939798625547827](https://git.arts.ac.uk/storage/user/363/files/04c5393c-6a2b-4eb8-98ad-9ab1037da73b)
 >Anger is represented by red
