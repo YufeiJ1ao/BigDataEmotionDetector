@@ -101,9 +101,9 @@ Where the main characters are artifical intelegence, there is a ring light built
 >Joy is represented by Mint Blue
 >Etc.
 
-## links
+## links and references
 https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0267
 https://www.frontiersin.org/articles/10.3389/fpsyg.2021.772642/full
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4595480/
-
+https://www.section.io/engineering-education/nlp-based-detection-model-using-neattext-and-scikit-learn/#:~:text=The%20emotion%20detection%20model%20is,text%20into%20the%20following%20categories.
  
