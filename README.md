@@ -3,7 +3,7 @@
 
 Initial Idea:
 By publish tweets or all kinds of other publicly available texts, human behaviour becomes predictable, because most of the emotional responses of humans are simple and stereotypical. Therefore can be study and analyse by machine learning models.
-![Artboard 1_14-100](https://git.arts.ac.uk/storage/user/363/files/770deae8-d083-4c4b-a116-bae048a734f9)
+![Artboard 1_14-100](https://github.com/user-attachments/assets/986f2c37-c74d-40ac-925f-d36628645ec4)
 
 
 ## Emotion Recognition Model
@@ -14,8 +14,8 @@ There are two types of emotion measurement and assessment tools: psychophysiolog
 
 ## Documentation 
 Collect data from twitter or any social platforms to build the database of this project.
-![Artboard 1_15-100](https://git.arts.ac.uk/storage/user/363/files/3918678b-d559-4511-b38e-24257bc24fdd)
-![Artboard 1_16-100](https://git.arts.ac.uk/storage/user/363/files/b8d4d764-8f6e-4df5-b033-490829d550be)
+![Artboard 1_15-100](https://github.com/user-attachments/assets/399a795d-3faa-44a8-a041-61a195ed28df)
+![Artboard 1_16-100](https://github.com/user-attachments/assets/13747484-bd88-44df-8848-e3c67d29b695)
 
 ## Requirements
 
@@ -96,7 +96,7 @@ This idea was originally inspired by a video game called 'Detroit: Become Human'
 ###
 ###
 Where the main characters are artifical intelligences, there is a ring light built on the side of their forehead. Which display their emotion/reaction toward events. Which also warn others when there is emergency going on.
-![Artboard 1_17-100](https://git.arts.ac.uk/storage/user/363/files/0e1e1bbd-3b20-4da9-bb4b-3f4f60a79169)
+![Artboard 1_17-100](https://github.com/user-attachments/assets/52c1077c-8f4a-421a-bf0c-5afc83999f35)
 
 ![283939798625547827](https://git.arts.ac.uk/storage/user/363/files/04c5393c-6a2b-4eb8-98ad-9ab1037da73b)
 >Anger is represented by red
